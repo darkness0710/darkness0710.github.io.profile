@@ -2,6 +2,6 @@ module.exports = {
  	chainWebpack: config => {
  	    config.module.rules.delete('eslint');
  	},
- 	publicPath: '/',
+ 	publicPath: '/darkness0710.github.io.profile',
  	outputDir: 'docs'
 }
